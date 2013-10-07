@@ -2,7 +2,7 @@
 (text between brackets to be removed)
 
 > * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
+> * Group participants names: Claudia Deuber, Jacqueline Mock, Timo Hinzmann, Patrick Seewald
 > * Project Title: (can be changed)
 
 ## General Introduction
