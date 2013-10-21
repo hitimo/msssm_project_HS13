@@ -1,9 +1,9 @@
-# MATLAB HS13 – Research Plan (Template)
-(text between brackets to be removed)
+# MATLAB HS13 – Research Plan
 
-> * Group Name: (be creative!)
+
+> * Group Name: SOC-Traffic Police
 > * Group participants names: Claudia Deuber, Jacqueline Mock, Timo Hinzmann, Patrick Seewald
-> * Project Title: (can be changed)
+> * Project Title: An analysis of traffic flux under the aspect of Self-Organized-Criticality
 
 ## General Introduction
 
