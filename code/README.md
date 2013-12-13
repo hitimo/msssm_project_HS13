@@ -1,3 +1,4 @@
 # Code Folder 
 
-Your code goes here. You could also replace the content of this file with something more meaningful
+01_code_model: Code used for simulating our model
+02_code_animation: Code used for animations
