@@ -1,7 +1,7 @@
 # Code Folder 
 
 
-# 01_code_model: Code used for simulating our model 
+## 01_code_model: Code used for simulating our model 
 
 
 How to make use of source code:
@@ -21,7 +21,7 @@ How to make use of source code:
 
 
 
-# 02_code_animation: Code used for animations
+## 02_code_animation: Code used for animations
 
 
 
