@@ -45,11 +45,10 @@ Everything is possible ;)
 
 ## References 
 
-Statistical physics of vehicular traffic and some related systems, Debashish Chowdhury, Ludger Santen and Andreas 
-
+> * Statistical physics of vehicular traffic and some related systems, Debashish Chowdhury, Ludger Santen and Andreas 
 Schadschneider
-o Self-organized criticality and 1/f noise in traffic, 1996, Maya Paczuski and Kai Nagel
-o Traffic and related self-driven many-particle systems, Oct. 2001, Reviews of modern physics, vol. 73, Dirk Helbing
+> * Self-organized criticality and 1/f noise in traffic, 1996, Maya Paczuski and Kai Nagel
+> * Traffic and related self-driven many-particle systems, Oct. 2001, Reviews of modern physics, vol. 73, Dirk Helbing
 
 
 We modify the parameters of the 'Nagel-Schreckenberg cellular automata model' in order to investigate on how the critical point (SOC) is influenced by this.
