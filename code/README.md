@@ -23,5 +23,7 @@ How to make use of source code:
 
 ## 02_code_animation: Code used for animations
 
-
+- running the '*_simulation.m' files will generate one of the three movies
+- 'colorbar.m' is used to color the bar plot
+- 'draw_car.m' is used to draw and color the cars (original version downloaded from course website and then modified)
 
